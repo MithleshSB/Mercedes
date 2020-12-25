@@ -19,7 +19,7 @@ and One Eureka Server
 EXECUTION
 --------------------
 
-  http://localhost:8010/getPetrolDetailsForCity type This URL in Your Browser
+  http://localhost:8020/getPetrolDetailsForCity type This URL in Your Browser
   this Will Wait for the User Response for Fuel fill Status  in your Sending Service in console.
   Enter Desire Value True/False
   then Automatically in Browser ,the result will be shown  based on the input
